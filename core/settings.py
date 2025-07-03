@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-c-94i2&2e2f97y&%k-ji4(*55!ask=crv^i4b97drb7&m4v^^8
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['CVD-predictor.onrender.com']
+ALLOWED_HOSTS = []
 
 
 # Application definition
@@ -121,7 +121,7 @@ USE_TZ = True
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/5.0/howto/static-files/
 
-STATIC_URL = 'static/'
+
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field
