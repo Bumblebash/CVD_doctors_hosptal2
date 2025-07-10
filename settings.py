@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-c-94i2&2e2f97y&%k-ji4(*55!ask=crv^i4b97drb7&m4v^^8
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['predictor.onrender.com', 'localhost', '27.0.0.1:8000']
+ALLOWED_HOSTS = ['cvd-doctors-hosptal2-18.onrender.com', 'localhost', '127.0.0.1']
 
 
 # Application definition
