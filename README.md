@@ -20,7 +20,7 @@ This is a Django-based full-stack web app that predicts the likelihood of cardio
 ## 🛠 Local Setup
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/CVD_doctors_hosptal2.git
+git clone https://github.com/Bumblebash/CVD_doctors_hosptal2.git
 cd CVD_doctors_hosptal2
 pip install -r requirements.txt
 python manage.py runserver
