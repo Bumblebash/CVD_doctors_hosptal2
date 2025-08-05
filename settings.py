@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-c-94i2&2e2f97y&%k-ji4(*55!ask=crv^i4b97drb7&m4v^^8
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['https://cvd-doctors-hosptal2-19.onrender.com', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['cvd-doctors-hosptal2-19.onrender.com', 'localhost', '127.0.0.1']
 
 
 # Application definition
@@ -127,3 +127,4 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
